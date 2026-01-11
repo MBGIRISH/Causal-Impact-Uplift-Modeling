@@ -34,6 +34,9 @@ data/*.pkl
 # Results
 results/*
 !results/.gitkeep
+!results/images/
+results/images/*
+!results/images/*.png
 
 # OS
 .DS_Store
